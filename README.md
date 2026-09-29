@@ -1,4 +1,4 @@
-# ⚖️ CivicResolve — Secure Digital Grievance Redressal System
+# ⚖️ CivicResolve — (JanSetu)Secure Digital Grievance Redressal System
 
 A full-stack government civic complaint management platform built with **Firebase** (Auth + Firestore) and vanilla HTML/CSS/JS. Features glassmorphism UI, mouse parallax, smooth page transitions, and complete role-based access control.
 
@@ -221,11 +221,7 @@ After login, the user profile is cached in `sessionStorage` for fast UI access (
 
 ---
 
-## 📞 Support
 
-- Firebase docs: [https://firebase.google.com/docs](https://firebase.google.com/docs)
-- Firestore queries: [https://firebase.google.com/docs/firestore/query-data/queries](https://firebase.google.com/docs/firestore/query-data/queries)
-- Firebase Auth: [https://firebase.google.com/docs/auth/web/start](https://firebase.google.com/docs/auth/web/start)
 
 ---
 
